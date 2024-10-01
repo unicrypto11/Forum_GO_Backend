@@ -98,11 +98,3 @@
   ```shell
   $ docker-compose -f docker-compose.test.yml up --build 
   ```
-
-
-## Author
-
-- Steven Victor
-- medium: medium.com/@victorsteven  
-- twitter: twitter.com/stevensunflash  
-- linkedin: linkedin.com/in/stevenchikodi
